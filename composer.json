@@ -1,0 +1,11 @@
+{
+    "name": "sergius/directory.loc",
+    "description": "test",
+    "require": {},
+    
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
